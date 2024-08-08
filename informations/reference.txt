@@ -1,0 +1,3 @@
+article :- https://www.freecodecamp.org/news/build-a-google-docs-clone-with-react-and-firebase/
+
+video :- https://www.youtube.com/watch?v=rD5kC17a55k&list=PLcAVdtHk_JSRW_IpvEn_wWy0MVkSf1WYX
